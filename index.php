@@ -8,7 +8,7 @@
 <?php
   function string(){
     return 'Une chaine de caractère';
-  }
+  }dd
   echo string();
  ?>
   </body>
