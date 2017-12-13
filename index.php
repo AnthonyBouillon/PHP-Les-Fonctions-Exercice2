@@ -6,7 +6,10 @@
   </head>
   <body>
 <?php
-
+  function string(){
+    return 'Une chaine de caractère';
+  }
+  echo string();
  ?>
   </body>
 </html>
