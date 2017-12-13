@@ -10,6 +10,6 @@
     return 'Une chaine de caractère';
   }
   echo string();
- ?>La preuve que ça marche
+ ?>
   </body>
 </html>
