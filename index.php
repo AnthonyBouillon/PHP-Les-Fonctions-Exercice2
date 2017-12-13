@@ -10,6 +10,6 @@
     return 'Une chaine de caractère';
   }
   echo string();
- ?>dkcdkcdlcdplcksdckp
+ ?>La preuve que ça marche
   </body>
 </html>
